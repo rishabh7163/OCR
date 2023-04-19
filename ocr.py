@@ -1,7 +1,7 @@
 import fitz
 
 # Open the PDF file
-pdf_file = fitz.open('D:/OSU Spring 2023/PP/proj1.pdf')
+pdf_file = fitz.open('path_to_file example.pdf')
 
 # Get the number of pages in the PDF file
 num_pages = pdf_file.page_count
