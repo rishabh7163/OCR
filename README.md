@@ -15,8 +15,8 @@ python ocr.py
 
 Note: Replace "example.pdf" with your pdf file name.
 
-pdf_file = fitz.open('path_to_file example.pdf') 
-In the above line change 'path_to_file example.pdf' to your PDF file.
+**pdf_file = fitz.open('path_to_file example.pdf') **
+In the above line change **'path_to_file example.pdf'** to **your PDF file**.
 
 
 ## Process:
