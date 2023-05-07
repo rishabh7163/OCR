@@ -1,4 +1,4 @@
-# PDF_OCR
+# Introduction
 
 This is a simple Python project that reads a pdf file and prints out all the words from that file.
 
